@@ -1,0 +1,16 @@
+{
+    "name": "rwn/human-json",
+    "description": "Description of project human-json.",
+    "authors": [
+        {
+            "name": "Richard",
+            "email": "richard.nahm@t-online.de"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "riwin\\HumanJson\\": "src/"
+        }
+    }
+}
